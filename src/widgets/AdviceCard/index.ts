@@ -1,1 +1,0 @@
-export { AdviceCard } from './ui'
