@@ -1,0 +1,15 @@
+.Button {
+    cursor: pointer;
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    background: #52FFA8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Button:hover {
+    box-shadow: 0px 0px 25px 5px #52FFA8;
+    transition: 0.4s;
+}

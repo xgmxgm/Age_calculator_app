@@ -1,0 +1,1 @@
+export { GetAdvice } from './api'
